@@ -43,7 +43,7 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "nes.css": "^2.2.0"
+    "nes.css": "^2.3.0"
   },
   "husky": {
     "hooks": {
